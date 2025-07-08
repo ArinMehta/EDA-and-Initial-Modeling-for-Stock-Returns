@@ -1,10 +1,8 @@
-# 📈 EDA and Initial Modeling for Stock Returns
+# EDA and Initial Modeling for Stock Returns
 
 This project aims to explore and model a stock returns dataset by conducting structured **Exploratory Data Analysis (EDA)** and setting up a baseline modeling pipeline. It includes return-based feature engineering, missing value treatment, and both intraday and interday data analysis.
 
----
-
-## 🔍 Objective
+## Objective
 
 To enhance understanding of market return behavior by:
 
@@ -12,8 +10,6 @@ To enhance understanding of market return behavior by:
 - Handling missing data for more reliable downstream modeling
 - Identifying signal-rich features using correlation and autocorrelation
 - Setting up initial train/test splits and model scaffolds (e.g., XGBoost, Linear Regression)
-
----
 
 ##  Planned Tasks
 
@@ -23,10 +19,6 @@ To enhance understanding of market return behavior by:
 -  Define and extract feature and target sets
 -  Apply ACF/PACF plots to analyze temporal dependencies
 
----
+##  Status
 
-## 📌 Status
-
-🟡 *Project ongoing
-
----
+- Project ongoing
