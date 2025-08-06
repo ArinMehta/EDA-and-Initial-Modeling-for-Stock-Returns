@@ -21,4 +21,4 @@ To enhance understanding of market return behavior by:
 
 ##  Status
 
-- Project ongoing
+- Project completed
